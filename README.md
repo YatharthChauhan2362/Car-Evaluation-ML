@@ -20,12 +20,6 @@ The following dependencies are required to run the program:
 - Pandas
 - Scikit-learn
 
-You can install these dependencies by running the following command:
-
-```
-pip install -r requirements.txt
-```
-
 ## Usage
 
 To use the program, you need to provide a CSV file with the following columns:
